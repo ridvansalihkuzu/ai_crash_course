@@ -1,1 +1,1 @@
-# ai Crash Course
+# AI Crash Course
