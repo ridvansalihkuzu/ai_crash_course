@@ -12,6 +12,6 @@ future==0.18.2
 Cython==0.29.14
 imgaug==0.3.0
 matplotlib==3.3.3
-tensorflow==2.4.0
+tensorflow==2.4.1
 tf-object-detection==0.0.3
 pydot==1.4.1
