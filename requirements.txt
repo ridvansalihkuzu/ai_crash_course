@@ -14,5 +14,4 @@ imgaug==0.3.0
 matplotlib==3.3.3
 tensorflow-cpu==2.4.1
 tensorflow-gpu==2.4.1
-tf-object-detection==0.0.3
 pydot==1.4.1
